@@ -10,3 +10,14 @@ Challenges:
 1. Implementing tf-idf was a bit challenging as I didn't have the clear idea of algorithm.
 2. Implementing phrase search was a bit challenging as I needed to check for the position as well as existence of the terms searched.
 
+
+
+End:Task 2
+Improvement:
+1. Have tested the search engine manually.Would want to add unit tests for efficient testing.
+2. Would use multi-threading for calling author API. Haven't used it right now due to lack of time.
+3. Logging is not enabled in django app.Would in fact integrate this with Sentry for bug tracking.
+
+Challenges:
+1. Creating a server on top the core functionality was relatively easy as all the core development was already done is Task1.
+2. No major challenges faced in this task.
