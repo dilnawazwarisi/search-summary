@@ -229,6 +229,6 @@ if __name__=='__main__':
     index_file = INDEX_FILE
     transformed_data_file = TRANSFORMED_DATA_FILE
     q=QueryIndex(stopword_file, index_file, transformed_data_file)
-    print(q.query_index('book',1))
+    print(q.query_index('book',10))
 
 
