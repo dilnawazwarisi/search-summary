@@ -1,0 +1,30 @@
+{
+  "titles": [
+    "Anything You Want",
+    "The Richest Man in Babylon"
+    ],
+  "queries": [
+    "is your problems",
+    "achieve take book"
+  ],
+  "summaries": [
+  {
+    "id": 0,
+    "summary": "Book by nawaz on literature"
+  },
+  {
+    "id": 1,
+    "summary": "Book by nawaz on science"
+  }
+],
+  "authors": [
+    {
+      "book_id": 0,
+      "author": "Dan Harris"
+    },
+    {
+      "book_id": 1,
+      "author": "Grant Cardone"
+    }
+  ]
+}
