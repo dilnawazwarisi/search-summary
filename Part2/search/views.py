@@ -5,7 +5,7 @@ from django.http import JsonResponse
 
 #Local source tree imports
 from .author_service import _author
-from Part1.query_index import _query_service
+from index.query_index import _query_service
 
 
 class SearchView(APIView):
